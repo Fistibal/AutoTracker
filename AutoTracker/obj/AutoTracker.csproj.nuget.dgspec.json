@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Edilma\\Desktop\\Capstone\\AutoTracker\\AutoTracker\\AutoTracker.csproj": {}
+    "C:\\Users\\HOME\\Source\\Repos\\AutoTracker\\AutoTracker\\AutoTracker.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Edilma\\Desktop\\Capstone\\AutoTracker\\AutoTracker\\AutoTracker.csproj": {
+    "C:\\Users\\HOME\\Source\\Repos\\AutoTracker\\AutoTracker\\AutoTracker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Edilma\\Desktop\\Capstone\\AutoTracker\\AutoTracker\\AutoTracker.csproj",
+        "projectUniqueName": "C:\\Users\\HOME\\Source\\Repos\\AutoTracker\\AutoTracker\\AutoTracker.csproj",
         "projectName": "AutoTracker",
-        "projectPath": "C:\\Users\\Edilma\\Desktop\\Capstone\\AutoTracker\\AutoTracker\\AutoTracker.csproj",
-        "packagesPath": "C:\\Users\\Edilma\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Edilma\\Desktop\\Capstone\\AutoTracker\\AutoTracker\\obj\\",
+        "projectPath": "C:\\Users\\HOME\\Source\\Repos\\AutoTracker\\AutoTracker\\AutoTracker.csproj",
+        "packagesPath": "C:\\Users\\HOME\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HOME\\Source\\Repos\\AutoTracker\\AutoTracker\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Edilma\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\HOME\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -72,6 +69,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.0.1, 3.0.1]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.0.2, 3.0.2]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.0.0, 3.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.0.0, 3.0.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -80,7 +95,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
