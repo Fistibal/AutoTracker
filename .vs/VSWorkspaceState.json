@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\AutoTracker",
+    "\\AutoTracker\\Views",
+    "\\AutoTracker\\Views\\Home"
   ],
-  "SelectedNode": "\\AutoTracker.sln",
+  "SelectedNode": "\\AutoTracker\\Views\\Home\\Index.cshtml",
   "PreviewInSolutionExplorer": false
 }
